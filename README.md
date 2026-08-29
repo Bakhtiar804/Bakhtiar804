@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=00d2ff,3a7bd5,646cff&height=220&section=header&text=Modern%20Frontend%20Architect&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=00d2ff,3a7bd5,646cff&height=200&section=header&text=Modern%20Frontend%20Developer&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
