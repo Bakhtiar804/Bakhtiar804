@@ -1,126 +1,151 @@
-<div align="center">
+<h1 align="center">👋 Hi, I'm Bakhtiar Ahmed</h1>
 
-# 👋 Hi, I'm Bakhtiar Ahmed
+<h3 align="center">💻 Front-End Developer | React.js Developer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1200&color=00C8FF&center=true&vCenter=true&width=850&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Building+Modern+Responsive+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+<p align="center">
+  <b>Building modern, responsive & user-friendly web applications</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate Front-End Developer who enjoys building modern and responsive web applications.
+
+- ⚛️ React.js Developer
+- 🔄 Redux & Redux Toolkit
+- 🎨 Tailwind CSS
+- ⚡ Vite
+- 🌐 REST APIs & Axios
+- 🔥 Firebase & Firestore
+- 🛠️ Git & GitHub
+- 📱 Responsive Web Design
+- 🧩 Component-Based Development
+- 📚 Always learning and improving
+
+---
+
+## 🧑‍💻 Tech Stack
+
+### Frontend
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Bakhtiar804&label=Profile+Views&color=0ea5e9&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Bakhtiar804?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/Bakhtiar804?style=for-the-badge&logo=github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,bootstrap" />
 </p>
 
-</div>
+### State Management
 
----
-
-# 💫 About Me
-
-💻 Passionate Frontend Developer from Pakistan
-
-🚀 I enjoy building modern, responsive and user-friendly web applications.
-
-🌱 Currently learning **React Ecosystem** and improving my frontend development skills.
-
-🎯 Goal: Become a Professional Frontend Engineer.
-
-⚡ I love solving problems through clean UI and JavaScript.
-
----
-
-# 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,bootstrap,git,github,vscode,figma,npm"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=redux" />
 </p>
 
----
+### Backend & Database
 
-# 📊 GitHub Stats
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</p>
 
-<p align="center">
+### Tools
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bakhtiar804&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bakhtiar804&layout=compact&theme=tokyonight&hide_border=true"/>
+### APIs
 
+<p>
+  <img src="https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fetch_API-FF6F00?style=for-the-badge" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## ⚡ My Skills
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bakhtiar804&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bakhtiar804&theme=tokyo-night"/>
-
-</p>
+| Category | Technologies |
+|----------|--------------|
+| Frontend | HTML5, CSS3, JavaScript |
+| Framework | React.js |
+| State Management | Redux, Redux Toolkit |
+| Styling | Tailwind CSS, Bootstrap, Ant Design |
+| API Integration | Axios, Fetch API, REST APIs |
+| Backend Services | Firebase |
+| Database | Firestore |
+| Storage | LocalStorage |
+| Build Tool | Vite |
+| Version Control | Git, GitHub |
 
 ---
 
-# 🏆 GitHub Trophies
+## 🔥 What I Can Build
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bakhtiar804&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🌐 Portfolio Website | Personal portfolio showcasing my projects and skills |
-| 🎵 VibeStream | Music streaming app with Firebase Authentication and API integration |
-| 💼 LinkedIn Clone | Social networking platform inspired by LinkedIn |
-| 🛒 Amazon Clone | Responsive e-commerce website |
-| 🏠 Airbnb Clone | Modern property booking interface |
-| 🧮 Calculator | Responsive calculator built with JavaScript |
+- 🌐 Responsive Websites
+- ⚛️ React Applications
+- 🛒 E-Commerce Websites
+- 📝 CRUD Applications
+- 🔐 Authentication Systems
+- 🔥 Firebase Applications
+- 📡 API-Based Applications
+- 🎵 Music Applications
+- 📊 Dashboard Interfaces
+- 🎨 Modern UI Designs
 
 ---
 
-# 🌍 Connect With Me
+## 📌 Featured Projects
 
-<p align="center">
+### 🎵 Music Web Application
 
-<a href="https://portfolio-bakhtiar-ahmed-804.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+A modern music application built with React featuring authentication, music controls, liked songs and playlist functionality.
 
-<a href="https://www.linkedin.com/in/bakhtiar-ahmed-31655037a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**Technologies:** React.js • Firebase • JavaScript
 
-<a href="mailto:bakhtiarahmed44204@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+🔗 [Live Demo](YOUR_LIVE_DEMO_URL)
 
-</p>
+🔗 [Source Code](YOUR_GITHUB_REPO_URL)
 
 ---
 
-# 💻 Quote
+### ✅ Todo Application
 
-> **"Code. Learn. Improve. Repeat."**
+A responsive Todo application with CRUD functionality and persistent data storage.
+
+**Technologies:** React.js • Firebase • Firestore • Ant Design
+
+🔗 [Live Demo](YOUR_LIVE_DEMO_URL)
+
+🔗 [Source Code](YOUR_GITHUB_REPO_URL)
 
 ---
 
-<div align="center">
+### 🛒 E-Commerce Projects
 
-### ⭐ Thanks for visiting my profile ⭐
+Responsive e-commerce interfaces inspired by popular platforms with modern UI and reusable components.
 
-</div>
+**Technologies:** HTML • CSS • JavaScript • React.js
+
+🔗 [Live Demo](YOUR_LIVE_DEMO_URL)
+
+🔗 [Source Code](YOUR_GITHUB_REPO_URL)
+
+---
+
+## 📚 Currently Learning
+
+```text
+React.js
+   ↓
+Redux
+   ↓
+Redux Toolkit
+   ↓
+API Integration
+   ↓
+Firebase & Firestore
+   ↓
+Modern Front-End Development
