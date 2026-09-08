@@ -10,6 +10,21 @@
 
 ---
 
+
+## 👤 About Me
+
+```yaml
+name: Bakhtiar Ahmed
+location: Karachi, Pakistan
+current_role:
+  - Front End Developer
+  - Learner
+focus: [ MERN Stack, DevOps, Cloud Infrastructure ]
+contact: bakhtiarahmed44204@gmail.com
+portfolio: (https://portfolio-bakhtiar-ahmed-804.netlify.app/)
+
+---
+
 ## 🔭 What I'm Up To
 
 - 🔭 **Building & maintaining**: Apps with React, Next.js, Firebase & Supabase
