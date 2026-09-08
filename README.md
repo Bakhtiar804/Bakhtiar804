@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header" width="100%" alt="Header Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2a1b4e&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=35&fontColor=ffffff" width="100%" alt="Header Wave" />
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3500&pause=700&color=F7DF1E&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;Learning+Backend+%26+New+Technologies;Writing+Clean+%26+Efficient+JavaScript;&random=false&height=50)](https://git.io/typing-svg)
 
-**Frontend developer from Pakistan 🇵🇰** — crafting clean, responsive & user-friendly web applications. Constantly learning new technologies while maintaining and improving existing projects.
+**Frontend Developer from Pakistan 🇵🇰** — crafting clean, responsive & user-friendly web applications. Constantly learning new technologies while maintaining and improving existing projects.
 
 </div>
 
@@ -12,18 +12,18 @@
 
 ## 🔭 What I'm Up To
 
-- 🔭 **Building & maintaining**: apps with React, Next.js, Firebase & Supabase
-- 🌱 **Learning**: backend development, TypeScript & new technologies
-- ⚡ **Crafting**: clean UI, smooth animations with GSAP, performant JavaScript
+- 🔭 **Building & maintaining**: Apps with React, Next.js, Firebase & Supabase
+- 🌱 **Learning**: Backend development, TypeScript & modern tech stacks
+- ⚡ **Crafting**: Clean UI, smooth animations with GSAP, performant JavaScript
 
 ---
 
 ## 🛠️ Tech Stack
 
 <table align="center" width="100%">
-  <tr height="80px">
-    <th align="center" width="30%" style="font-size:18px; padding:20px 10px;">Languages &amp; Frameworks</th>
-    <td align="center" style="padding:20px 10px;">
+  <tr height="90px">
+    <th align="center" width="30%" style="font-size:18px; padding:20px;">Languages &amp; Frameworks</th>
+    <td align="center" style="padding:20px;">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -32,25 +32,25 @@
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     </td>
   </tr>
-  <tr height="80px">
-    <th align="center" width="30%" style="font-size:18px; padding:20px 10px;">Styling &amp; Animation</th>
-    <td align="center" style="padding:20px 10px;">
+  <tr height="90px">
+    <th align="center" width="30%" style="font-size:18px; padding:20px;">Styling &amp; Animation</th>
+    <td align="center" style="padding:20px;">
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
       <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
     </td>
   </tr>
-  <tr height="80px">
-    <th align="center" width="30%" style="font-size:18px; padding:20px 10px;">State &amp; Data</th>
-    <td align="center" style="padding:20px 10px;">
+  <tr height="90px">
+    <th align="center" width="30%" style="font-size:18px; padding:20px;">State &amp; Data</th>
+    <td align="center" style="padding:20px;">
       <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
     </td>
   </tr>
-  <tr height="80px">
-    <th align="center" width="30%" style="font-size:18px; padding:20px 10px;">Tools &amp; Deployment</th>
-    <td align="center" style="padding:20px 10px;">
+  <tr height="90px">
+    <th align="center" width="30%" style="font-size:18px; padding:20px;">Tools &amp; Deployment</th>
+    <td align="center" style="padding:20px;">
       <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -66,13 +66,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bakhtiar804&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=bakhtiar804&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bakhtiar804&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=bakhtiar804&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiar804&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bakhtiar804&theme=midnight_purple" alt="Profile Summary" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiar804&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=bakhtiar804&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -80,19 +80,15 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bakhtiar804/bakhtiar804/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bakhtiar804&theme=github-compact&area=true&hide_border=true&custom_title=Bakhtiar's%20Contribution%20Graph" alt="Activity Graph" width="95%" />
+  <img src="https://raw.githubusercontent.com/bakhtiar804/bakhtiar804/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </p>
 
 ---
 
 ## 🗂️ Featured Projects
 
-<table>
-  <tr>
+<table align="center" width="100%">
+  <tr height="70px">
     <td width="70%" style="padding:15px;">
 
 **🔧 Maintenance Web with AI QR System**
@@ -108,7 +104,7 @@ Web maintenance system integrated with an AI-powered QR code system for efficien
       </a>
     </td>
   </tr>
-  <tr>
+  <tr height="70px">
     <td width="70%" style="padding:15px;">
 
 **🌱 ECO TRACKER**
@@ -124,7 +120,7 @@ Sustainability tracking app — monitor water & energy usage, earn achievements,
       </a>
     </td>
   </tr>
-  <tr>
+  <tr height="70px">
     <td width="70%" style="padding:15px;">
 
 **🎵 Music Web App**
@@ -140,7 +136,7 @@ A modern, responsive music player — play, pause & skip tracks with a clean, us
       </a>
     </td>
   </tr>
-  <tr>
+  <tr height="70px">
     <td width="70%" style="padding:15px;">
 
 **🛒 E-Commerce Web (React)**
@@ -156,7 +152,7 @@ Full-featured e-commerce web app — product listings, cart & a seamless shoppin
       </a>
     </td>
   </tr>
-  <tr>
+  <tr height="70px">
     <td width="70%" style="padding:15px;">
 
 **👨‍💻 Personal Portfolio**
@@ -191,4 +187,4 @@ My personal portfolio website showcasing my skills, projects & experience.
   <img src="https://komarev.com/ghpvc/?username=bakhtiar804&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2a1b4e&height=120&section=footer" width="100%" alt="Footer Wave" />
