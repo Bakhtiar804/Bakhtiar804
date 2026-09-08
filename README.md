@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Hi!%20I'm%20Bakhtiar&fontSize=42&fontAlignY=30&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js&descAlignY=48&descAlign=62" width="100%" alt="Header Wave" />
+<img src="wave-top.svg" width="100%" alt="Header Wave" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=700&color=F7DF1E&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Experiences;Learning+Backend+%26+New+Technologies;Writing+Clean+%26+Efficient+JavaScript;&random=false&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3500&pause=700&color=F7DF1E&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;Learning+Backend+%26+New+Technologies;Writing+Clean+%26+Efficient+JavaScript;&random=false&height=50)](https://git.io/typing-svg)
 
-Frontend developer from **Pakistan 🇵🇰** — crafting clean, responsive & user-friendly web applications. Constantly learning new technologies while maintaining and improving existing projects.
+**Frontend developer from Pakistan 🇵🇰** — crafting clean, responsive & user-friendly web applications. Constantly learning new technologies while maintaining and improving existing projects.
 
 </div>
 
@@ -18,10 +18,10 @@ Frontend developer from **Pakistan 🇵🇰** — crafting clean, responsive & u
 
 ## 🛠️ Tech Stack
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <th align="center" width="200">Languages &amp; Frameworks</th>
-    <td>
+    <th align="center" width="25%" style="font-size:16px;padding:12px;">Languages &amp; Frameworks</th>
+    <td align="center" style="padding:12px;">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -31,24 +31,24 @@ Frontend developer from **Pakistan 🇵🇰** — crafting clean, responsive & u
     </td>
   </tr>
   <tr>
-    <th align="center" width="200">Styling &amp; Animation</th>
-    <td>
+    <th align="center" width="25%" style="font-size:16px;padding:12px;">Styling &amp; Animation</th>
+    <td align="center" style="padding:12px;">
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
       <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
     </td>
   </tr>
   <tr>
-    <th align="center" width="200">State &amp; Data</th>
-    <td>
+    <th align="center" width="25%" style="font-size:16px;padding:12px;">State &amp; Data</th>
+    <td align="center" style="padding:12px;">
       <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <th align="center" width="200">Tools &amp; Deployment</th>
-    <td>
+    <th align="center" width="25%" style="font-size:16px;padding:12px;">Tools &amp; Deployment</th>
+    <td align="center" style="padding:12px;">
       <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
       <img src="https://img.shields.io/badge/Antigravity-7C3AED?style=for-the-badge&logoColor=white" />
@@ -190,4 +190,4 @@ My personal portfolio website showcasing my skills, projects & experience.
   <img src="https://komarev.com/ghpvc/?username=bakhtiar804&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" alt="Footer Wave" />
+<img src="wave-footer.svg" width="100%" alt="Footer Wave" />
