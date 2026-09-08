@@ -1,63 +1,77 @@
-# Hi, I'm Bakhtiar Ahmed 💡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Hi!%20I'm%20Bakhtiar&fontSize=42&fontAlignY=30&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js&descAlignY=48&descAlign=62" width="100%" alt="Header Wave" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3500&pause=700&color=F7DF1E&center=true&vCenter=true&width=700&lines=Frontend+Developer;Building+Modern+Web+Experiences;Learning+Backend+%26+New+Technologies;&random=false&height=60)](https://git.io/typing-svg)
+<div align="center">
 
-<p align="center">
-  Frontend developer from <b>Pakistan</b>, crafting clean, responsive & user-friendly web apps.
-  Constantly learning new technologies while maintaining and improving my projects.
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=700&color=F7DF1E&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Experiences;Learning+Backend+%26+New+Technologies;Writing+Clean+%26+Efficient+JavaScript;&random=false&height=50)](https://git.io/typing-svg)
 
-## 🔭 What I'm Doing
+Frontend developer from **Pakistan 🇵🇰** — crafting clean, responsive & user-friendly web applications. Constantly learning new technologies while maintaining and improving existing projects.
+
+</div>
+
+## 🔭 What I'm Up To
 
 - 🔭 **Building & maintaining**: apps with React, Next.js, Firebase & Supabase
-- 🌱 **Learning**: backend development, TypeScript & new tech
-- ⚡ **Crafting**: clean UI, smooth animations, and performant JavaScript
+- 🌱 **Learning**: backend development, TypeScript & new technologies
+- ⚡ **Crafting**: clean UI, smooth animations with GSAP, performant JavaScript
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-**Styling & Animation**
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-
-**State & Data**
-
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Tools & Deployment**
-
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<table align="center">
+  <tr>
+    <th align="center" width="200">Languages &amp; Frameworks</th>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th align="center" width="200">Styling &amp; Animation</th>
+    <td>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+      <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <th align="center" width="200">State &amp; Data</th>
+    <td>
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th align="center" width="200">Tools &amp; Deployment</th>
+    <td>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Antigravity-7C3AED?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bakhtiar804&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bakhtiar804&hide_border=true&theme=dark" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bakhtiar804&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=bakhtiar804&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiar804&hide_border=true&layout=compact&theme=dark" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiar804&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bakhtiar804&theme=midnight_purple" alt="Profile Summary" />
 </p>
 
 ---
@@ -68,59 +82,112 @@
   <img src="https://raw.githubusercontent.com/bakhtiar804/bakhtiar804/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
-<a href="https://github.com/bakhtiar804/bakhtiar804"><img src="https://github-readme-activity-graph.vercel.app/graph?username=bakhtiar804&theme=github-dark&hide_border=true" alt="Activity Graph" width="100%" /></a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bakhtiar804&theme=github-compact&area=true&hide_border=true&custom_title=Bakhtiar's%20Contribution%20Graph" alt="Activity Graph" width="95%" />
+</p>
 
 ---
 
 ## 🗂️ Featured Projects
 
-### 🔧 Maintenance-Web-with-AI-QR-System
-Web maintenance system with AI-powered QR code integration for asset tracking and management.
+<table>
+  <tr>
+    <td width="55%">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bakhtiar804/Maintainence-Web-with-AI-QR-System)
+**🔧 Maintenance Web with AI QR System**
 
-### 🌱 ECO-TRACKER
-Sustainability tracking app — monitor water & energy usage, earn achievements, follow eco tips.
+Web maintenance system integrated with an AI-powered QR code system for efficient asset tracking and management.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bakhtiar804/ECO-TRACKER)
+`React` `TypeScript` `QR Code` `AI`
 
-### 🎵 Music-Web-App
-Responsive music player built with HTML, CSS & JavaScript — play, pause, skip, clean interface.
+    </td>
+    <td align="center" width="15%">
+      <a href="https://github.com/bakhtiar804/Maintainence-Web-with-AI-QR-System">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="55%">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bakhtiar804/Music-Web-App)
+**🌱 ECO TRACKER**
 
-### 🛒 E-Commerce_Web-with-React
-Full-featured e-commerce web app in React — products, cart, seamless shopping experience.
+Sustainability tracking app — monitor water & energy usage, earn achievements, and follow eco-friendly tips.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bakhtiar804/E-Commerce_Web-with-React)
+`React` `Tailwind CSS` `Charts`
 
-### 👨‍💻 Personal-Portfolio
-Personal portfolio website showcasing my skills, projects & experience.
+    </td>
+    <td align="center" width="15%">
+      <a href="https://github.com/bakhtiar804/ECO-TRACKER">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="55%">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bakhtiar804/Personal-Portfolio)
+**🎵 Music Web App**
+
+A modern, responsive music player — play, pause & skip tracks with a clean, user-friendly interface.
+
+`HTML5` `CSS3` `JavaScript`
+
+    </td>
+    <td align="center" width="15%">
+      <a href="https://github.com/bakhtiar804/Music-Web-App">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="55%">
+
+**🛒 E-Commerce Web (React)**
+
+Full-featured e-commerce web app — product listings, cart & a seamless shopping experience.
+
+`React` `Redux` `JavaScript`
+
+    </td>
+    <td align="center" width="15%">
+      <a href="https://github.com/bakhtiar804/E-Commerce_Web-with-React">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="55%">
+
+**👨‍💻 Personal Portfolio**
+
+My personal portfolio website showcasing my skills, projects & experience.
+
+`HTML5` `CSS3` `JavaScript`
+
+    </td>
+    <td align="center" width="15%">
+      <a href="https://github.com/bakhtiar804/Personal-Portfolio">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📫 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bakhtiar804)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bakhtiar804&style=for-the-badge&color=informational" alt="Profile Views" />
+  <a href="https://github.com/bakhtiar804">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=bakhtiar804&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" alt="Footer Wave" />
