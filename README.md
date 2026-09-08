@@ -80,22 +80,12 @@ portfolio: [https://portfolio-bakhtiar-ahmed-804.netlify.app/](https://portfolio
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bakhtiar804&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=bakhtiar804&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiar804&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=bakhtiar804&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
-</p>
 
----
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bakhtiar804/bakhtiar804/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
-</p>
 
 ---
 
