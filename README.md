@@ -23,7 +23,9 @@ focus: [ MERN Stack, DevOps, Cloud Infrastructure ]
 contact: bakhtiarahmed44204@gmail.com
 portfolio: (https://portfolio-bakhtiar-ahmed-804.netlify.app/)
 
+---
 
+---
 
 ## 🔭 What I'm Up To
 
