@@ -1,4 +1,4 @@
-<img src="wave-top.svg" width="100%" alt="Header Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header" width="100%" alt="Header Wave" />
 
 <div align="center">
 
@@ -7,6 +7,8 @@
 **Frontend developer from Pakistan 🇵🇰** — crafting clean, responsive & user-friendly web applications. Constantly learning new technologies while maintaining and improving existing projects.
 
 </div>
+
+---
 
 ## 🔭 What I'm Up To
 
@@ -19,9 +21,9 @@
 ## 🛠️ Tech Stack
 
 <table align="center" width="100%">
-  <tr>
-    <th align="center" width="25%" style="font-size:16px;padding:12px;">Languages &amp; Frameworks</th>
-    <td align="center" style="padding:12px;">
+  <tr height="80px">
+    <th align="center" width="30%" style="font-size:18px; padding:20px 10px;">Languages &amp; Frameworks</th>
+    <td align="center" style="padding:20px 10px;">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -30,28 +32,27 @@
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     </td>
   </tr>
-  <tr>
-    <th align="center" width="25%" style="font-size:16px;padding:12px;">Styling &amp; Animation</th>
-    <td align="center" style="padding:12px;">
+  <tr height="80px">
+    <th align="center" width="30%" style="font-size:18px; padding:20px 10px;">Styling &amp; Animation</th>
+    <td align="center" style="padding:20px 10px;">
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
       <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
     </td>
   </tr>
-  <tr>
-    <th align="center" width="25%" style="font-size:16px;padding:12px;">State &amp; Data</th>
-    <td align="center" style="padding:12px;">
+  <tr height="80px">
+    <th align="center" width="30%" style="font-size:18px; padding:20px 10px;">State &amp; Data</th>
+    <td align="center" style="padding:20px 10px;">
       <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
     </td>
   </tr>
-  <tr>
-    <th align="center" width="25%" style="font-size:16px;padding:12px;">Tools &amp; Deployment</th>
-    <td align="center" style="padding:12px;">
+  <tr height="80px">
+    <th align="center" width="30%" style="font-size:18px; padding:20px 10px;">Tools &amp; Deployment</th>
+    <td align="center" style="padding:20px 10px;">
       <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-      <img src="https://img.shields.io/badge/Antigravity-7C3AED?style=for-the-badge&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -92,7 +93,7 @@
 
 <table>
   <tr>
-    <td width="55%">
+    <td width="70%" style="padding:15px;">
 
 **🔧 Maintenance Web with AI QR System**
 
@@ -101,14 +102,14 @@ Web maintenance system integrated with an AI-powered QR code system for efficien
 `React` `TypeScript` `QR Code` `AI`
 
     </td>
-    <td align="center" width="15%">
+    <td align="center" width="30%" style="padding:15px;">
       <a href="https://github.com/bakhtiar804/Maintainence-Web-with-AI-QR-System">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
       </a>
     </td>
   </tr>
   <tr>
-    <td width="55%">
+    <td width="70%" style="padding:15px;">
 
 **🌱 ECO TRACKER**
 
@@ -117,14 +118,14 @@ Sustainability tracking app — monitor water & energy usage, earn achievements,
 `React` `Tailwind CSS` `Charts`
 
     </td>
-    <td align="center" width="15%">
+    <td align="center" width="30%" style="padding:15px;">
       <a href="https://github.com/bakhtiar804/ECO-TRACKER">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
       </a>
     </td>
   </tr>
   <tr>
-    <td width="55%">
+    <td width="70%" style="padding:15px;">
 
 **🎵 Music Web App**
 
@@ -133,14 +134,14 @@ A modern, responsive music player — play, pause & skip tracks with a clean, us
 `HTML5` `CSS3` `JavaScript`
 
     </td>
-    <td align="center" width="15%">
+    <td align="center" width="30%" style="padding:15px;">
       <a href="https://github.com/bakhtiar804/Music-Web-App">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
       </a>
     </td>
   </tr>
   <tr>
-    <td width="55%">
+    <td width="70%" style="padding:15px;">
 
 **🛒 E-Commerce Web (React)**
 
@@ -149,14 +150,14 @@ Full-featured e-commerce web app — product listings, cart & a seamless shoppin
 `React` `Redux` `JavaScript`
 
     </td>
-    <td align="center" width="15%">
+    <td align="center" width="30%" style="padding:15px;">
       <a href="https://github.com/bakhtiar804/E-Commerce_Web-with-React">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
       </a>
     </td>
   </tr>
   <tr>
-    <td width="55%">
+    <td width="70%" style="padding:15px;">
 
 **👨‍💻 Personal Portfolio**
 
@@ -165,7 +166,7 @@ My personal portfolio website showcasing my skills, projects & experience.
 `HTML5` `CSS3` `JavaScript`
 
     </td>
-    <td align="center" width="15%">
+    <td align="center" width="30%" style="padding:15px;">
       <a href="https://github.com/bakhtiar804/Personal-Portfolio">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
       </a>
@@ -190,4 +191,4 @@ My personal portfolio website showcasing my skills, projects & experience.
   <img src="https://komarev.com/ghpvc/?username=bakhtiar804&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
-<img src="wave-footer.svg" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer" width="100%" alt="Footer Wave" />
