@@ -1,124 +1,115 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=61DAFB&center=true&vcenter=true&width=700&lines=Hey+There!+I'm+[Your+Name]+👋;Modern+Frontend+Developer;React.js+%7C+Vite+%7C+TypeScript;Building+Pixel-Perfect+UI%2FUX;Performance+%26+Clean+Architecture" alt="Typing SVG" />
-  </a>
-</h1>
+# Hi, I'm Bakhtiar Ahmed 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=00d2ff,3a7bd5,646cff&height=200&section=header&text=Modern%20Frontend%20Developer&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=500&color=0366D6&center=true&vCenter=true&width=600&lines=Frontend+Developer;Learning+Backend+%26+New+Technologies;Building+Modern+Web+Experiences)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00d2ff&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=646cff&logo=github&labelColor=1a1b26" /></a>
-</p>
+Frontend developer from Pakistan, focused on building clean, responsive, and user-friendly web applications. I'm always learning new technologies and expanding into backend development while actively maintaining and improving my existing projects.
 
-<br/>
+### Current Focus
 
-<div align="center">
-  <h2>⚡ Tech Stack Snapshot</h2>
-  <img src="https://skillicons.dev/icons?i=react,vite,ts,js,html,css,tailwind,redux,styledcomponents,git,github,vscode,vercel,pnpm,figma,postman&perline=8" />
-</div>
-
-<br/>
+- 🔭 **Building & maintaining**: web applications with React, Next.js, Firebase & Supabase
+- 🌱 **Learning**: new technologies, backend development, TypeScript, advanced React patterns
+- ⚡ **Passionate about**: clean UI, performance, and problem-solving through JavaScript
 
 ---
 
-## 🛠️ Tech Stack & Skill Matrix
+## Tech Stack
 
-<table>
-  <thead>
-    <tr>
-      <th width="30%">Domain</th>
-      <th width="70%">Technologies & Frameworks</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>🚀 Core Frontend</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>🎨 UI & Styling</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-        <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>🔄 State & Data Fetching</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-        <img src="https://img.shields.io/badge/Zustand-443e38?style=for-the-badge&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>⚙️ Tooling & Hosting</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-        <img src="https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+**Languages & Frameworks**
 
-<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-## 📈 GitHub Metrics & Analytics
+**Styling**
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=synthwave&hide=html,css&border_radius=10" />
-</div>
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-<br/>
+**State Management**
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=synthwave&border_radius=10" width="100%" />
-</div>
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 
-<br/>
+**Backend & Databases**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=synthwave&column=6&margin-w=15&margin-h=15" />
-</div>
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-<br/>
+**Tools**
+
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-7C3AED?style=flat&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
+
+## Version Control & Deployment
+
+**Version Control**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+**Deployment**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ---
 
-## ⚡ Activity Snake Game
+## GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+![Bakhtiar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bakhtiar804&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiar804&hide_border=true&layout=compact)
 
 ---
 
-## ☕ Connect With Me
+## Featured Projects
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" />
-  </a>
-</p>
+### 🔧 Maintainence-Web-with-AI-QR-System
+Web maintenance system integrated with an AI-powered QR code system for efficient asset tracking and management.
 
-<p align="center">
-  <i>✨ "Crafting fluid UI component architectures with modern web technologies." ✨</i>
-</p>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/bakhtiar804/Maintainence-Web-with-AI-QR-System)
+
+### 🌱 ECO-TRACKER
+Sustainability tracking web app that helps users monitor water and energy consumption, earn achievements, and follow eco-friendly tips.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/bakhtiar804/ECO-TRACKER)
+
+### 🎵 Music-Web-App
+A modern and responsive music player built with HTML, CSS, and JavaScript — play, pause, and skip tracks with a clean user-friendly interface.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/bakhtiar804/Music-Web-App)
+
+### 🛒 E-Commerce_Web-with-React
+A full-featured e-commerce web application built with React — product listings, cart, and a seamless shopping experience.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/bakhtiar804/E-Commerce_Web-with-React)
+
+### 👨‍💻 Personal-Portfolio
+My personal portfolio website showcasing my skills, projects, and experience as a frontend developer.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/bakhtiar804/Personal-Portfolio)
+
+---
+
+## Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bakhtiar804)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
